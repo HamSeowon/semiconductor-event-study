@@ -5,3 +5,4 @@ __pycache__/
 .ipynb_checkpoints/
 *.db
 .DS_Store
+!data/raw/sk_hynix_event_log.csv
