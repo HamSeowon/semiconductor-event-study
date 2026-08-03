@@ -6,3 +6,5 @@ __pycache__/
 *.db
 .DS_Store
 !data/raw/sk_hynix_event_log.csv
+!data/processed/ticker_event_summary.csv
+!data/raw/event_log.csv
